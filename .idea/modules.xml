@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bubble/Bubble.iml" filepath="$PROJECT_DIR$/Bubble/Bubble.iml" />
       <module fileurl="file://$PROJECT_DIR$/Select/Select.iml" filepath="$PROJECT_DIR$/Select/Select.iml" />
     </modules>
   </component>
